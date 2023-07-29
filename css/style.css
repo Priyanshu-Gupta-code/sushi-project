@@ -138,7 +138,7 @@ li {
         transform: translateX(0);
         opacity: 1;
         visibility: visible;
-        /* pointer-events: auto; */
+        pointer-events: auto;
         position: fixed;
         transition: transform 0.5s linear;
     }
